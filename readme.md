@@ -9,3 +9,7 @@ Git is a distributed version control system that tracks changes in any set of co
 ## What is GitHub
 
 GitHub is a code hosting platform for collaboration and version control
+
+## What is DevOps
+
+DevOps is a methodology in the software development and IT industry. Used as a set of practices and tools, DevOps integrates and automates the work of software development (Dev) and IT operations (Ops)
